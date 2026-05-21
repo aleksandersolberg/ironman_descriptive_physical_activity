@@ -11,7 +11,7 @@ in the IRONMAN study overall and by race and country region groups (see Solberg 
 
 Github repo contains no actual study data or output due to data privacy. Repo is intended for demonstrating data management and analytical abilities. Rest of the readme lists instructions for use when shared with colleagues working on the same project. 
 
-The script consists of different parts:
+The project contains scripts for:
 1. Data cleaning of all relevant study variables
 2. Descriptive data for baseline variables and physical activity levels at different timepoints
 3. Logistic mixed effects models analysing odds of meeting guidelines in different subgroups
